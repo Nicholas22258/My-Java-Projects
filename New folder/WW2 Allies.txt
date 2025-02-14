@@ -1,0 +1,28 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<allies>
+	<country id = "001">
+		<name>Britain</name>
+		<year>1939</year>
+		<leader>Churchill</leader>
+	</country>
+	<country id = "002">
+		<name>France</name>
+		<year>1939</year>
+		<leader>DeGaul</leader>
+	</country>
+	<country id = "003">
+		<name>USSR</name>
+		<year>1939</year>
+		<leader>Stalin</leader>
+	</country>
+	<country id = "004">
+		<name>USA</name>
+		<year>1941</year>
+		<leader>Roosevelt</leader>
+	</country>
+	<country id = "005">
+		<name>China</name>
+		<year>1937</year>
+		<leader>Kai-Shek</leader>
+	</country>
+</allies>
